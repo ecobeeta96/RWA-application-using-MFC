@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  FINALDlg.cpp
+d:\lectures\3rd year\1st sem\computer eng project 3\project final docs\source code\final\final\finaldlg.cpp(176): warning C4018: '<': signed/unsigned mismatch
+d:\lectures\3rd year\1st sem\computer eng project 3\project final docs\source code\final\final\finaldlg.cpp(179): warning C4018: '<': signed/unsigned mismatch
+d:\lectures\3rd year\1st sem\computer eng project 3\project final docs\source code\final\final\finaldlg.cpp(216): warning C4566: character represented by universal-character-name '\u263B' cannot be represented in the current code page (1252)
+d:\lectures\3rd year\1st sem\computer eng project 3\project final docs\source code\final\final\finaldlg.cpp(255): warning C4018: '<': signed/unsigned mismatch
+  FINAL.cpp
+  Generating Code...
+  FINAL.vcxproj -> D:\LECTURES\3rd Year\1st sem\COMPUTER ENG PROJECT 3\PROJECT FINAL DOCS\SOURCE CODE\FINAL\Debug\FINAL.exe
+  FINAL.vcxproj -> D:\LECTURES\3rd Year\1st sem\COMPUTER ENG PROJECT 3\PROJECT FINAL DOCS\SOURCE CODE\FINAL\Debug\FINAL.pdb (Partial PDB)
